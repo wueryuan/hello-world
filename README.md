@@ -1,2 +1,5 @@
 # hello-world
-just another repository
+
+Hi Humans!
+
+Wueryuan here,I like java,and I think I can do better.
